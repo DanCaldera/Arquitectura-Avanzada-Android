@@ -48,6 +48,14 @@
 
 ![Recursos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/recursos-three.png)
 
+## Archivo R.JAVA
+
+![rjava](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/rjava-one.png)
+
+![rjava](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/rjava-two.png)
+
+![rjava](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/rjava-three.png)
+
 
 
 

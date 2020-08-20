@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/tVTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
@@ -21,27 +21,26 @@
         android:orientation="horizontal">
 
         <EditText
-            android:id="@+id/editTextTextPersonName4"
+            android:id="@+id/etNombre"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Name" />
+            android:inputType="textPersonName" />
 
-        <Button
-            android:id="@+id/button4"
-            style="@style/Widget.AppCompat.Button.Borderless"
+        <CheckBox
+            android:id="@+id/cbDev"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="CheckBox" />
+
     </LinearLayout>
 
-    <ImageView
-        android:id="@+id/imageView3"
+    <Button
+        android:id="@+id/bSaludar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/ic_launcher_foreground"
-        tools:ignore="VectorDrawableCompat" />
+        android:text="Saludar" />
+
 </LinearLayout>
