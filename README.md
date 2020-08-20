@@ -19,3 +19,17 @@
 ![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/match-parent-one.png)
 
 ![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/match-parent-two.png)
+
+### Wrap Content
+
+![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/wrap-content-one.png)
+
+![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/wrap-content-two.png)
+
+### Match & Wrap Content
+
+![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/m-w-content-one.png)
+
+![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/m-w-content-two.png)
+
+
