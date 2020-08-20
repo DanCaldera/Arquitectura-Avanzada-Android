@@ -32,4 +32,15 @@
 
 ![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/m-w-content-two.png)
 
+## Unidades de medida
+
+### DP y SP
+
+![Unidades de medida](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/dp-sp.png)
+
+![Unidades de medida](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/dp-sp-two.png)
+
+## Relative Layout
+
+
 
