@@ -11,9 +11,9 @@
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Escribe tu nombre"
         android:layout_margin="16dp"
-        android:textColor="@android:color/black" />
+        android:text="@string/write_your_name"
+        android:textColor="@color/colorPrimaryDark" />
 
     <LinearLayout
         android:layout_width="match_parent"
