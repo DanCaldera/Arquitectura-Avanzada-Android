@@ -8,3 +8,8 @@
 ![Tipos de layouts](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/tipos-layouts-2.png)
 
 (Example: constrain-example tag)
+
+
+2.- Tamaños de elementos
+
+![Tamaños Elementos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/tamanios-elementos.png)
