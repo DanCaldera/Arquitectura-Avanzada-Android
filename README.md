@@ -40,7 +40,14 @@
 
 ![Unidades de medida](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/dp-sp-two.png)
 
-## Relative Layout
+## Recursos en Android
+
+![Recursos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/recursos.png)
+
+![Recursos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/recursos-two.png)
+
+![Recursos](https://github.com/DanCaldera/Arquitectura-Avanzada-Android/blob/1.PrimeraApp/images/recursos-three.png)
+
 
 
 
